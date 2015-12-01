@@ -120,7 +120,7 @@ plot(Adipo.exp[,"X4h"], Adipo.exp[,"X8h"])
 abline(h=0, v=0, col="gold")
 
 
-
+## This part will serves as the more advanced case study for participants who have more experience with R
 ## Install R packages and runing Using cluster evaluation algorithm to determine optimal clusters in the time-series 
 Install a package called ClueR from CRAN (The Comprehensive R Archive Network)
 
